@@ -1,7 +1,11 @@
 👋 Hi, I’m Eshwar Paygude (@Eshwar154)
+
 👀 I’m interested in Robotics, AI/ML, and Mobile App Development.
+
 🌱 I’m currently learning AI technologies and exploring their applications in health and finance.
+
 💞️ I’m looking to collaborate on projects that blend AI with practical use cases, like smart health assistants and automation systems.
+
 📫 How to reach me:
 Email: eshwarpaygude@gmail.com
 LinkedIn: linkedin.com/in/eshwar-paygude
