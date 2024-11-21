@@ -8,9 +8,13 @@
 
 📫 How to reach me:
 Email: eshwarpaygude@gmail.com
+
 LinkedIn: linkedin.com/in/eshwar-paygude
+
 GitHub: github.com/eshwarpaygude
+
 GitLab: gitlab.com/eshwarpaygude
+
 😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy solving complex problems and turning them into simple, user-friendly solutions!
 
