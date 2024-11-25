@@ -2,7 +2,7 @@
 
 👀 I’m interested in Robotics, AI/ML, and Mobile App Development.
 
-🌱 I’m currently learning AI technologies and exploring their applications in health and finance.
+🌱 I’m currently learning AI technologies and exploring their applications in Business and Robotics.
 
 💞️ I’m looking to collaborate on projects that blend AI with practical use cases, like smart health assistants and automation systems.
 
